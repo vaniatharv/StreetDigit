@@ -108,6 +108,3 @@ or
 
 ---
 
-## License
-
-Add a license if you plan to publish or reuse this project (e.g., MIT, Apache-2.0).
